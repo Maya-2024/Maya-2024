@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, 🌱 I’m currently learning API 👋
 
 <!--
 **Maya-2024/Maya-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
